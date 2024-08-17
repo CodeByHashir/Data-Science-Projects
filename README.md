@@ -1,7 +1,7 @@
-Data Science and Machine Learning Projects
+# *Data Science and Machine Learning Projects*
 Welcome to my Data Science and Machine Learning repository! This repository is a collection of various projects that I have worked on to apply and enhance my skills in data science, machine learning, and related fields.
 
-Overview
+### Overview
 This repository contains projects that demonstrate my understanding of:
 
 Data analysis and visualization
