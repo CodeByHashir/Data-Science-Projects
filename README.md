@@ -240,9 +240,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 For questions, suggestions, or collaboration opportunities, please reach out through:
-- **Email**: [your-email@domain.com]
-- **LinkedIn**: [Your LinkedIn Profile]
-- **GitHub**: [Your GitHub Profile]
+- **Email**: [Hashirahmad330@gmail.com]
+- **LinkedIn**: [https://www.linkedin.com/in/hashirahmed07/]
+- **GitHub**: [https://github.com/CodeByHashir]
 
 ---
 
